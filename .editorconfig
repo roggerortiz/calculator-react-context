@@ -1,0 +1,26 @@
+root = true
+
+[**/*.json]
+charset = utf-8
+indent_size = 3
+indent_char = space
+
+[**/*.html]
+charset = utf-8
+indent_size = 3
+indent_char = space
+
+[src/**/*.js]
+charset = utf-8
+indent_size = 3
+indent_char = space
+
+[src/**/*.jsx]
+charset = utf-8
+indent_size = 3
+indent_char = space
+
+[src/assets/**/*.css]
+charset = utf-8
+indent_size = 3
+indent_char = space
